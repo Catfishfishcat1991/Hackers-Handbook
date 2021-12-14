@@ -1,2 +1,2 @@
 # Hackers-Handbook
-a learning path to programing
+a learning path to programing and ethical hacking
